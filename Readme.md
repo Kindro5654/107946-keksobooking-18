@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Бочаров](https://up.htmlacademy.ru/javascript/18/user/107946).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Слесаренко](https://up.htmlacademy.ru/javascript/18/user/279781).
 
 ---
 
